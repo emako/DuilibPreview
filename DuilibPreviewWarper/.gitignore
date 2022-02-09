@@ -1,0 +1,4 @@
+# Build Kazu
+.vs/*
+bin/*
+obj/*
