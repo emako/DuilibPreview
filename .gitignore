@@ -33,3 +33,7 @@
 *.user
 *.dep
 *.map
+
+# Build Kazu
+.vs/*
+bin/*
